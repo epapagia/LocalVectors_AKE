@@ -15,7 +15,7 @@ The main code of our approach utilizes the [PKE](https://github.com/boudinfl/pke
 
 ```git clone https://github.com/boudinfl/ake-datasets.git```
 
-Then, you should assign to the variable *dataset_path* the target dataset's path.
+Then, you should assign to the variable *dataset_path* the target dataset's path (in LV_AKE.ipynb).
 
 ### Evaluation
 
@@ -40,11 +40,11 @@ Please cite the following papers if you are interested in using our code.
 
 ```
 @article{Papagiannopoulou2019outliers,
-	author    = {Eirini Papagiannopoulou and Grigorios Tsoumakas},
-	title     = {Unsupervised Keyphrase Extraction from Scientific Publications},
-	journal = {To appear in Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, CICLing 2019},
-	volume    = {La Rochelle, France},
-    year      = {2019},
-	url       = {https://arxiv.org/abs/1808.03712}
+  author    = {Eirini Papagiannopoulou and Grigorios Tsoumakas},
+  title     = {Unsupervised Keyphrase Extraction from Scientific Publications},
+  journal   = {To appear in Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, CICLing 2019},
+  volume    = {La Rochelle, France},
+  year      = {2019},
+  url       = {https://arxiv.org/abs/1808.03712}
 }
 ```
